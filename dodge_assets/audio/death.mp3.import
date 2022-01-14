@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/death.mp3-22c89c8ce4b7c1882faf4197b0d00ada.mp3str"
+
+[deps]
+
+source_file="res://dodge_assets/audio/death.mp3"
+dest_files=[ "res://.import/death.mp3-22c89c8ce4b7c1882faf4197b0d00ada.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
